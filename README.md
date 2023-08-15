@@ -37,13 +37,13 @@ customer based on that information.
 Four datasets are provided for the completion of the project along with an additional two
 metadata about the attributes of the datasets.
 
-• Udacity_AZDIAS_052018.csv: Demographics data for the general population of Germany; 891 211 persons(rows) x 366 features (columns).
+• AZDIAS_052018.csv: Demographics data for the general population of Germany; 891 211 persons(rows) x 366 features (columns).
 
-• Udacity_CUSTOMERS_052018.csv: Demographics data for customers of a mail-order company; 191 652 persons (rows) x 369 features (columns).
+• CUSTOMERS_052018.csv: Demographics data for customers of a mail-order company; 191 652 persons (rows) x 369 features (columns).
 
-• Udacity_MAILOUT_052018_TRAIN.csv: Demographics data for individuals who were targets of a marketing campaign; 42 982 persons (rows) x 367 (columns).
+• MAILOUT_052018_TRAIN.csv: Demographics data for individuals who were targets of a marketing campaign; 42 982 persons (rows) x 367 (columns).
 
-• Udacity_MAILOUT_052018_TEST.csv: Demographics data for individuals who were targets of a marketing campaign; 42 833 persons (rows) x 366
+• MAILOUT_052018_TEST.csv: Demographics data for individuals who were targets of a marketing campaign; 42 833 persons (rows) x 366
 (columns).
 
 #### 2 metadata files have been provided to give attribute information:
